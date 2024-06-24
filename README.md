@@ -7,6 +7,8 @@
 
 ![video-craft](video-craft-text-logo.png)
 
+<a href="https://github.com/video-craft/video-craft" target="blank" >video craft</a>
+
 Welcome to Video Craft, the personalized video title and description generator.
 </div>
 
